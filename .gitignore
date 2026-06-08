@@ -1,0 +1,34 @@
+# Compiled object files
+*.o
+*.obj
+
+# Simulation outputs
+*.vcd
+*.vpd
+*.fsdb
+*.wlf
+*.log
+*.jou
+*.pb
+*.wdb
+
+# Vivado / Xilinx
+*.xpr
+*.sim
+*.cache
+*.hw
+*.ip_user_files
+*.runs
+*.sim
+*.str
+
+# ModelSim / Questa
+work/
+transcript
+vsim.wlf
+*.mpf
+
+# Temporary files
+*.tmp
+*.bak
+*~
